@@ -1,0 +1,33 @@
+.footer{
+	position: relative;
+	width: 100vw;
+	height: 100vh;
+    
+} 
+body{
+	margin: 0;
+	padding: 0;
+}
+.login{
+	background-color: blue;
+	width: 500px;
+	height: 360px;
+	text-align: center;
+    margin-top: 10px;
+    margin-right: 100px;
+    position: absolute;
+    top: 0;
+    left: 60vw;
+    color: white;
+}
+input{
+	margin-bottom: 20px;
+    margin-left: auto;
+}
+h1{
+	margin-bottom: 10px;
+}
+textarea{
+	height: 150px;
+	width: 300px;
+}
